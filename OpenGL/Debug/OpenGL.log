@@ -1,2 +1,3 @@
 ﻿  Application.cpp
+c:\users\emman\dropbox\visual_studio_projects\opengl\opengl\src\application.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   OpenGL.vcxproj -> C:\Users\emman\Dropbox\visual_studio_projects\OpenGL\Debug\OpenGL.exe
