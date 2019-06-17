@@ -1,0 +1,3 @@
+#!/bin/bash
+python cube.py > garbage.txt
+rm garbage.txt
